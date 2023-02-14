@@ -1,5 +1,5 @@
 
-#include "calculator.cpp"
+//#include "calculator.cpp"
 
 
 class calculator
@@ -20,4 +20,4 @@ private:
     int var_a;
 
     int var_b;
-}
+};
